@@ -1,4 +1,4 @@
-SENSHI - STAT SYSTEM
+STAT SYSTEM
 
 In the Senshi universe, every warrior is defined by five core attributes. These attributes determine the warrior’s effectiveness in battle, crafting, exploration, and spiritual encounters. Upon minting, each Senshi receives a fixed pool of 140 stat points, distributed based on the chosen Spirit Archetype. This system ensures fairness while allowing strategic variance and identity.
 
@@ -22,21 +22,18 @@ Defines the tempo of a warrior’s actions. Reduces mission durations, increases
 Total Starting Points: 140
 All Senshi begin with a total of 140 points distributed across these five stats. Players select a Spirit Archetype during minting, which determines the initial distribution. No archetype has more or less than 140 points total.
 
-Spirit Archetypes and Stat Distribution
+**Spirit Archetypes and Stat Distribution**
 
-Kazan (Fire Spirit)
-STR: 45  AGI: 20  SOUL: 15  WIS: 10  SPD: 50A swift, aggressive warrior focused on melee combat and speed.
-
-Mizu (Water Spirit)
-STR: 15  AGI: 45  SOUL: 25  WIS: 35  SPD: 20A nimble and wise combatant who flows around enemies and excels in strategic engagement.
-
-Kaze (Wind Spirit)
-STR: 10  AGI: 35  SOUL: 50  WIS: 30  SPD: 15A spirit-heavy archetype, adept in spiritual techniques and agile maneuvers.
-
-Yama (Earth Spirit)
-STR: 50  AGI: 15  SOUL: 45  WIS: 10  SPD: 20A powerful and resilient archetype, favored by those who stand their ground.
-
-Kōmyō (Light Spirit)
-STR: 15  AGI: 15  SOUL: 45  WIS: 50  SPD: 15The wisdom-driven class, harnessing spiritual magic and support rituals.
+| Archetype     | STR | AGI | SOUL | WIS | SPD | Description                                                     |
+| ------------- | --- | --- | ---- | --- | --- | --------------------------------------------------------------- |
+| Kazan (Fire)  | 45  | 20  | 15   | 10  | 50  | A swift, aggressive warrior focused on melee combat and speed.  |
+| Mizu (Water)  | 15  | 45  | 25   | 35  | 20  | A nimble and wise combatant who flows around enemies.           |
+| Kaze (Wind)   | 10  | 35  | 50   | 30  | 15  | A spirit-heavy archetype, agile and attuned to spiritual force. |
+| Yama (Earth)  | 50  | 15  | 45   | 10  | 20  | A resilient warrior who thrives in sustained confrontation.     |
+| Kōmyō (Light) | 15  | 15  | 45   | 50  | 15  | A wise support-focused class mastering spiritual magic.         |
 
 This stat system is central to Senshi progression. In Phase 1, players must leverage their stat profile to complete daily tasks, unlock hidden crafting recipes, and prepare for the battles to come. While the base stat total is fixed, enhancements through equipment, relics, or ascension will allow further growth in later phases.
+
+
+
+
