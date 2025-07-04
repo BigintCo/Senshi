@@ -48,3 +48,7 @@ We will use a `RMRKCatalogFactory` to deploy our Catalog contracts. Each catalog
 Parts will be added to the catalog using `addPart` or `addPartList`. For slot parts, we will use `addEquippableAddresses` to specify which collections of NFTs can be equipped in that slot.
 
 This system will allow for a rich and evolving world of items and warriors, all powered by composable, equippable NFTs.
+
+## Acknowledgements
+
+The equippable NFT concept and the underlying technology are based on the great work done by the [RMRK team](https://rmrk.app/). Their innovative standards for composable NFTs make this level of dynamic in-game item interaction possible.
