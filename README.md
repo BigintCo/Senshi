@@ -10,7 +10,7 @@ This repository contains the documentation for the Senshi game. You can access t
 
 ## Game Mechanics
 
-- **Armors**: Browse the documents in the `game/Armors` folder.
+- [Armors](game/Armors.md)
 - [Crafting](game/Crafting.md)
 - [Daily Tasks](game/DailyTasks.md)
 - [Onboarding](game/onboarding.md)
