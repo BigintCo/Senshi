@@ -17,3 +17,4 @@ This repository contains the documentation for the Senshi game. You can access t
 - [Profile and Leaderboard](game/ProfileAndLeaderboard.md)
 - [Talismans](game/Talismans.md)
 - [Weapons](game/Weapons.md)
+- [Equippable NFTs](game/EquippableNFTs.md)
